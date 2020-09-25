@@ -53,6 +53,7 @@ function generatePassword() {
     if ((passLength >= 8) && (passLength <= 128) && ((wantUpper == true) || (wantLower == true) || (wantNumeric == true) || (wantSpecial === true))) {
         if (wantUpper == true) {
             for (var i of upper)
+                //push in a value from upper array
                 result.push(i);
         }
         if (wantLower == true) {
