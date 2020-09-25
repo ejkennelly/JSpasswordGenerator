@@ -5,4 +5,5 @@ For this project I created a password generator that met the following requireme
         a number, an uppercase letter, a lowercase letter, or a special character.
 
 I tried to keep the code as concise as possible. 
-Here is a [link to my application.]()
+Here is a [link to my application.](https://ejkennelly.github.io/JSpasswordGenerator/)
+Gif of working application! ![](password-generator-gif.gif)
